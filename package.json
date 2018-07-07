@@ -1,6 +1,6 @@
 {
     "name": "dom-to-image-plus",
-    "version": "2.6.1",
+    "version": "2.6.0",
     "description": "Generates an image from a DOM node using HTML5 canvas and SVG",
     "main": "src/dom-to-image.js",
     "dependencies": {},
@@ -25,7 +25,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/tsayen/dom-to-image-plus.git"
+        "url": "git+https://github.com/VladislavLobakh/dom-to-image-plus.git"
     },
     "keywords": [
         "dom",
